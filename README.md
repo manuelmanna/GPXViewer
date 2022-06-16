@@ -4,7 +4,7 @@
 
 ### Utilizza [MapBox JS](https://www.mapbox.com) e [GPXParser JS](https://luuka.github.io/GPXParser.js/)
 
-### <ins>**Al momento mostra un singolo gpx contenuto in `./static/gpx/example2.gpx`**</ins>
+### <ins>**Al momento mostra un singolo gpx contenuto in `./static/gpx/example.gpx`**</ins>
 
 
 
