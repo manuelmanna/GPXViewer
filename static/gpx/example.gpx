@@ -1869,4 +1869,18 @@
       </trkpt>
     </trkseg>
   </trk>
+  <wpt lon="-77.01598179526627" lat="38.92052206210792">
+    <ele>151.0</ele>
+    <time>2021-07-29T18:15:39Z</time>
+    <name>Ponte della Valle</name>
+    <desc>Descrizione che può essere usata come descrizione</desc>
+    <cmt>https://www.youtube.com/watch?v=dQw4w9WgXcQ</cmt>
+  </wpt>
+  <wpt lon="-77.01573377475142" lat="38.926835898309946">
+    <ele>151.0</ele>
+    <time>2021-07-29T18:15:39Z</time>
+    <name>Ponte della Valle Fantastico</name>
+    <cmt>https://www.youtube.com/watch?v=ZACzMAHc7ns</cmt>
+    <desc>Un ponte davvero fantastico che vale la pena visitare il prima possibile</desc>  
+  </wpt>
 </gpx>

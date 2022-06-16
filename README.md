@@ -21,11 +21,11 @@
 **Come inserisco un link all'iterno del titolo di un pop-up (nei waypoints)?**
 
 Per farlo bisogna scrivere all'interno del `<cmt></cmt>` del file `.gpx` il link alla quale si vuole reindirizzare l'utente
-
+s
 ## Bug
-A volte è provabile che compari l'errore in console _`La mappa non è stata ancora caricata`_, in questo caso ricaricare la pagina e riprovare.
+[✔️] **RISOLTO** ~~A volte è provabile che compari l'errore in console _`La mappa non è stata ancora caricata`_, in questo caso ricaricare la pagina e riprovare.~~
 
-Il file gpx non deve contenere più di un `<trk>`, altrimenti mostrerà soltanto il primo
+[❌] Il file gpx non deve contenere più di un `<trk>`, altrimenti mostrerà soltanto il primo
 
 ## Authors
 - [Manuel Manna](https://github.com/manuelmanna)
